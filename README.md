@@ -38,7 +38,7 @@ The analysis also covers best practices for creating strong passwords and common
 
 ---
 
-## 📌Best Practices for Creating Strong Passwords
+## Best Practices for Creating Strong Passwords
 1. Use at least **12–16 characters**.
 2. Mix **uppercase, lowercase, numbers, and special characters**.
 3. Avoid dictionary words or predictable patterns.
@@ -62,4 +62,7 @@ The analysis also covers best practices for creating strong passwords and common
 
 ---
 
+🔹 Author: Mohammad Farhan Hussain
+🔹 Internship: Elevate Labs Cybersecurity Internship
+🔹 Tools: Kasperkey password checker
 
